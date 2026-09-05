@@ -9,7 +9,7 @@ I am a 12-year-old passionate Game Developer and Web Developer from Belgrade, Se
 Here are the programming languages and tools I am currently mastering:
 
 * **Web Development:** HTML5 | CSS3 | JavaScript
-* **Game Development & Logic:** C# | Python
+* **Game Development & Logic:** C# 
 * **Tools & Platforms:** Git | GitHub | VS Code
 
 ---
