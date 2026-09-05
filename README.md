@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Aleksandar! 👋
 
-<!--
-**aleksandar123426-afk/aleksandar123426-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 12-year-old passionate Game Developer and Web Developer from Belgrade, Serbia. I love exploring new technologies, designing clean websites, and writing code for games. Currently, I am dedicated to expanding my knowledge and building creative digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+Here are the programming languages and tools I am currently mastering:
+
+* **Web Development:** HTML5 | CSS3 | JavaScript
+* **Game Development & Logic:** C# | Python
+* **Tools & Platforms:** Git | GitHub | VS Code
+
+---
+
+### 🚀 Current Focus & Goals
+
+- 🎮 Developing game mechanics and logic using **C#** and **Python**.
+- 🎨 Crafting responsive, modern, and user-friendly web layouts using **HTML**, **CSS**, and **JavaScript**.
+- 🤖 Creating scripts, automation tools, and simple mini-games.
+- 💻 Constantly learning best practices to write cleaner and more efficient code.
+
+---
